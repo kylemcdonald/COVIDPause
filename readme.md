@@ -6,7 +6,7 @@ This extension removes content from websites that contain the following keywords
 
 * "COVID"
 * "corona" or "virus",
-* "quarantine"
+* "quarantine" or "lockdown"
 * "pandemic"
 
 Additional words may be added at the top of `content.js` as appropriate.
