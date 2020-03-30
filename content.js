@@ -78,6 +78,7 @@ function setup() {
         'orona',
         'irus',
         'uarantin',
+        'ockdown',
         'andemic'
     ];
 
