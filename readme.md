@@ -16,14 +16,11 @@ Some special cases are handled on some of the most popular English-language webs
 ## Install
 
 1. Download this file and unzip.
-2. Go to [chrome://extensions/](chrome://extensions/)
+2. Go to `chrome://extensions/`, or from the menu bar select "Window > Extensions".
 3. At the top right, click "Developer mode" to enable unpacked extensions.
 4. Click the "Load Unpacked" button at the top left.
 5. Select the unzipped folder.
 
 ## Usage
 
-To temporarily enable/disable COVID Pause:
-
-1. Right-click on the page or right-click on the extension icon.
-2. Select "Enable COVID Pause" or "Disable COVID Pause" as appropriate.
+To temporarily enable/disable COVID Pause, click the COVID Pause icon at the top right.

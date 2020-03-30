@@ -28,7 +28,6 @@
         "default_icon": "icons/icon128.png"
     },
     "permissions": [
-        "storage",
-        "contextMenus"
+        "storage"
     ]
 }
