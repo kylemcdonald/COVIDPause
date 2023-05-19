@@ -79,7 +79,19 @@ function setup() {
         'irus',
         'uarantin',
         'ockdown',
-        'andemic'
+        'andemic',
+        'كوفيد',
+        'كورونا',
+        'فايروس',
+        'فيروس',
+        'حجر',
+        'حظر',
+        'تجول',
+        'وباء',
+        'جائحة',
+        'كوڤيد',
+        'ڤايروس',
+        'ڤيروس'
     ];
 
     sheet.innerHTML = ".covidpause {display: none !important}";
